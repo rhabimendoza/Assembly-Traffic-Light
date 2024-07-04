@@ -1,0 +1,7 @@
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 10 : Found label after column 1. (STATUS)
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 11 : Found label after column 1. (PORTC)
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 12 : Found label after column 1. (PORTD)
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 13 : Found label after column 1. (TEMP1)
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 14 : Found label after column 1. (TEMP2)
+Warning[207] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 15 : Found label after column 1. (TEMP3)
+Warning[205] C:\USERS\RHABI\MPLABXPROJECTS\PROJ2.X\CODE.ASM 118 : Found directive in column 1. (END)
